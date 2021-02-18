@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=ConvFix
-comment0.text=\ Rearranges\ a\ infix\ list\ of\ tokens\ into\ a\ postfix\ list\ of\ tokens\r\n
-comment1.params=infx
-comment1.target=java.util.List\ convFix(java.util.List)
-comment1.text=\ Rearranges\ a\ list\ of\ tokens\ representing\ a\ infix\ polynomial\ into\ a\ list\ of\ tokens\ representing\ a\ postfix\ polynomial\r\n\ @param\ infx\ an\ infix\ list\ of\ tokens\r\n\ @return\ output\ a\ postfix\ list\ of\ tokens\r\n
-numComments=2

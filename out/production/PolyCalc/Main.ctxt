@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Main
-comment0.text=\r\n\ Runs\ the\ calculator\ interface.\ Users\ can\ go\ into\ interactive,\ or\ file\ mode\ through\ this\ menu.\ They\ can\ also\ exit.\r\n\ @author\ Cesar\ Camacho\r\n\ @version\ CMPU\ 102\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2

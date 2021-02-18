@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=PolyReader
-comment0.text=\r\n\ Reads\ a\ string\ of\ a\ polynomial\ and\ creates\ a\ list\ of\ tokens\ from\ it.\r\n\ It\ separates\ monomials,\ operators,\ and\ parantheses\r\n\ @author\ Cesar\ Camacho\r\n\ @version\ CMPU\ 102\r\n
-comment1.params=input\ store
-comment1.target=java.util.List\ readPoly(java.lang.String,\ java.util.Map)
-comment1.text=\ Reads\ a\ string\ that\ represents\ a\ polynomial,\ and\ divides\ it\ into\ tokens.\r\n\ @param\ input\ represents\ the\ polynomial\ that\ is\ being\ divided\r\n\ @param\ store\ the\ storage\ of\ previous\ polynomials\ that\ have\ initialized\ so\ that\ they\ can\ be\ reused.\r\n\ @return\ pl\ The\ list\ of\ Tokens\ that\ were\ constructed\ from\ the\ string.\r\n
-numComments=2

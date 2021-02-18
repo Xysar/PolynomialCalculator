@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=ExpEval
-comment0.text=\r\n\ Contains\ static\ method\ that\ evaluates\ postfix\ list\ of\ polynomials,\ and\ calculates\ the\ result.\r\n\ @author\ Cesar\ Camacho\r\n\ @version\ CMPU\ 102\r\n
-comment1.params=p
-comment1.target=Poly\ evaluate(java.util.List)
-comment1.text=\r\n\ Contains\ static\ method\ that\ evaluates\ postfix\ list\ of\ polynomials,\ and\ calculates\ the\ result.\r\n\ @param\ p\ The\ postfix\ Polynomial\ that\ will\ be\ calculated\r\n\ @return\ output\ The\ result\ of\ calculating\ the\ postfix\ expression\ that\ was\ inputted.\r\n
-numComments=2
