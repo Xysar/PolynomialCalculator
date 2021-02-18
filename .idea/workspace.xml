@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3855f7c-735f-4607-ac78-aa4ad1cf3c9e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddOperator.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConvFix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConvFix.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DivOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DivOperator.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExpEval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExpEval.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MulOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MulOperator.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operator.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParToken.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Poly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Poly.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolyCalc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolyOperand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolyOperand.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolyReader$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolyReader$PrState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolyReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolyReader.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SubOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SubOperator.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Token.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Token.ctxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PolyCalc/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PolyCalc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PolyCalc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PolyCalc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PolyCalc/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613606487536</updated>
       <workItem from="1613606491631" duration="1093000" />
+      <workItem from="1613613419726" duration="328000" />
     </task>
     <servers />
   </component>
