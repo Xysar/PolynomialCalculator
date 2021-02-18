@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Token
+comment0.text=\ An\ interface\ that\ standardizes\ the\ methods\ of\ a\ token,\ which\ can\ be\ a\ ParToken,\ Operator\ or\ Operand.\r\n
+comment1.params=
+comment1.target=boolean\ isOperand()
+comment2.params=
+comment2.target=boolean\ isOperator()
+comment3.params=
+comment3.target=boolean\ isParToken()
+comment4.params=
+comment4.target=char\ getSymbol()
+numComments=5

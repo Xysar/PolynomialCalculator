@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PolyOperand
+comment0.text=\ Represents\ a\ Poly\ object\ in\ Token\ form\r\n\ \r\n
+comment1.params=t
+comment1.target=PolyOperand(java.lang.String)
+comment1.text=Constructor\ that\ takes\ in\ a\ string\ of\ a\ monomial\ and\ creates\ a\ Poly\ object.
+comment2.params=p
+comment2.target=PolyOperand(Poly)
+comment2.text=Constructor\ that\ takes\ in\ a\ Poly\ object
+comment3.params=
+comment3.target=boolean\ isOperand()
+comment3.text=\ Checks\ to\ see\ if\ the\ object\ is\ an\ Operand\ \r\n\ @return\ true\ PolyOperands\ are\ Operands\ \r\n
+comment4.params=
+comment4.target=boolean\ isOperator()
+comment4.text=\ Checks\ to\ see\ if\ the\ object\ is\ an\ Operator\r\n\ @return\ false\ PolyOperands\ are\ not\ Operators\r\n
+comment5.params=
+comment5.target=boolean\ isParToken()
+comment5.text=\ Checks\ to\ see\ if\ the\ object\ is\ a\ ParToken\r\n\ \ @return\ false\ PolyOperands\ are\ not\ ParTokens\r\n
+comment6.params=
+comment6.target=char\ getSymbol()
+comment6.text=\ returns\ a\ symbol\ that\ represents\ the\ token\r\n\ @return\ x\ the\ symbol\ that\ represents\ the\ Operand\r\n
+comment7.params=
+comment7.target=Poly\ getPoly()
+comment7.text=\ returns\ the\ Poly\ that\ the\ PolyOperand\ represents\r\n\ @return\ p\ the\ Poly\ that\ the\ PolyOperand\ represents\r\n
+numComments=8

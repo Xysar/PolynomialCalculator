@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ParToken
+comment0.text=\ Represents\ the\ parantheses\ that\ appear\ in\ an\ infix\ polynomial\ in\ Token\ form\r\n
+comment1.params=symbol
+comment1.target=ParToken(char)
+comment1.text=\ Constructor\ that\ creates\ a\ ParToken\ out\ of\ a\ char\ symbol,\ either\ '('\ or\ ')'\r\n
+comment2.params=
+comment2.target=boolean\ isOperator()
+comment2.text=\ Checks\ to\ see\ if\ the\ object\ is\ an\ Operator\r\n\ @return\ false\ ParTokens\ are\ not\ Operators\r\n
+comment3.params=
+comment3.target=boolean\ isOperand()
+comment3.text=\ Checks\ to\ see\ if\ the\ object\ is\ a\ Operand\r\n\ \ @return\ false\ ParTokens\ are\ not\ Operand\r\n
+comment4.params=
+comment4.target=boolean\ isParToken()
+comment4.text=\ Checks\ to\ see\ if\ the\ object\ is\ a\ ParToken\r\n\ \ @return\ true\ ParTokens\ are\ ParTokens\r\n
+comment5.params=
+comment5.target=char\ getSymbol()
+comment5.text=\ returns\ a\ symbol\ that\ represents\ the\ token\r\n\ @return\ symbol\ the\ symbol\ that\ represents\ the\ ParToken,\ '('\ or\ ')'\r\n
+numComments=6

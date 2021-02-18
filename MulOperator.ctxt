@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MulOperator
+comment0.text=\ Represents\ the\ multiplication\ operators\ that\ appear\ in\ a\ polynomial\ in\ Token\ form\r\n
+comment1.params=
+comment1.target=MulOperator()
+comment1.text=\ Constructor\ that\ creates\ a\ MulOperator\ object\r\n
+comment2.params=op1\ op2
+comment2.target=Poly\ operate(Poly,\ Poly)
+comment2.text=\ Utilizes\ the\ Mul\ function\ of\ the\ Poly\ class\ to\ multiply\ two\ Poly\ objects.\r\n\ @param\ Poly\ object\ that\ is\ inputted\r\n\ @param\ Poly\ object\ that\ is\ inputted\r\n\ @return\ output\ result\ of\ the\ two\ Poly's\ being\ multiplied\ together\r\n
+comment3.params=
+comment3.target=char\ getSymbol()
+comment3.text=\ Returns\ '*'\ symbol\ that\ represents\ the\ MulOperator\r\n\ @return\ symbol\ '*'\ symbol\ that\ represents\ the\ MulOperator\r\n
+comment4.params=
+comment4.target=int\ getPrio()
+comment4.text=\ Returns\ priority\ value\ of\ MulOperator,\ it\ is\ equals\ to\ DivOperator,\ but\ more\ than\ AddOperator\ and\ SubOperator\r\n\ @return\ priority\ integer\ value\ of\ priority\r\n
+numComments=5
